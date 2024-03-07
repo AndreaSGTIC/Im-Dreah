@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+  background: linear-gradient(#EAE0D5 0%, #DCC8BD 100%);
+}
+
+h2 {
+  color: #867666;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+}
+
+#texto {
+	text-align: center;
+}
+
+#footer {
+	background-color: #DCC8BD;
+	font-size: 15px;
+	text-align: center;
+	position: relative;
+}
